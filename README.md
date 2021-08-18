@@ -29,7 +29,7 @@ This web app so far have this information:
 - `plotly`
 
 ## File Description
-- `RH_COVIDINDONESIA.ipynb` is a jupyter notebook which contains steo-by-step while exploring the dataset and visualizing the data
+- `RH_COVIDINDONESIA.ipynb` is a jupyter notebook which contains step-by-step while exploring the dataset and visualizing the data
 - `conf.py` contains dash app configuration 
 - `app.py` contains app layout and to run the dash app
 - `layout.py` contains the app layout in detail
